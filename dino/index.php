@@ -10,7 +10,7 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active" style="background-image: url('images/banners/dino_banner_1.jpg')">
+            <div class="carousel-item active" style="background-image: url('<?= SITE_TEMPLATE_PATH ?>/assets/images/banners/dino_banner_1.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Динозавры не игрушки</h3>
                     <hr class="border-light">
@@ -22,7 +22,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" style="background-image: url('images/banners/dino_banner_2.jpg')">
+            <div class="carousel-item" style="background-image: url('<?= SITE_TEMPLATE_PATH ?>/assets/images/banners/dino_banner_2.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Когда у динозаврика режутся зубки</h3>
                     <hr class="border-light">
@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" style="background-image: url('images/banners/dino_banner_3.jpg')">
+            <div class="carousel-item" style="background-image: url('<?= SITE_TEMPLATE_PATH ?>/assets/images/banners/dino_banner_3.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Хорошего динозавра много не бывает</h3>
                     <hr class="border-light">
@@ -46,7 +46,7 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item" style="background-image: url('images/banners/dino_banner_4.jpg')">
+            <div class="carousel-item" style="background-image: url('<?= SITE_TEMPLATE_PATH ?>/assets/images/banners/dino_banner_4.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Хищный или травоядный</h3>
                     <hr class="border-light">
